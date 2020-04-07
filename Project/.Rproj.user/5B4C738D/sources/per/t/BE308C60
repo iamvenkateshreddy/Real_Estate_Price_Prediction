@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579878090018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3874471419",
+    "id" : "BE308C60",
+    "lastKnownWriteTime" : 1579878224,
+    "last_content_update" : 1579878224353,
+    "path" : "D:/DS_n_AI/Module_Predictive_Analytics_in_R/Project/Real_Estate/Project/Scripts/Hello_World.R",
+    "project_path" : "Scripts/Hello_World.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
